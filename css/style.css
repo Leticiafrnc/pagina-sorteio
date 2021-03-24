@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.fundo {
+    min-height: 620px;
+    background-color: burlywood;
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    padding-top: 10%;
+}
+
+.fundo .form {
+    display: inline-block;
+    position: relative;
+}
+
+.fundo h1 {
+    font-size: 30px;
+}
+
+.fundo input {
+    margin-top: 20px;
+}
+
+.fundo button {
+    margin-top: 20px;
+}
+
+.fundo h2 {
+    margin-top: 20px;
+}
